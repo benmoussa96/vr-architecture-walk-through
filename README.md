@@ -1,2 +1,2 @@
-# ar-architecture-walk-through
-An architectural walk-through virtual reality web app using WebXR.
+# VR Architecture Walk-through
+An Architectural Walk-through Virtual Reality Web App Using WebXR.
